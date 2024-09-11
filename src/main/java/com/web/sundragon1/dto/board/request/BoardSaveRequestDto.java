@@ -1,4 +1,4 @@
-package com.web.sundragon1.dto;
+package com.web.sundragon1.dto.board.request;
 
 import lombok.Getter;
 
